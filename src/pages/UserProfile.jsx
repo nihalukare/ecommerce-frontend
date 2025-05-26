@@ -36,7 +36,7 @@ export default function UserProfile() {
                 style={{ width: "18rem" }}
               >
                 <img
-                  src="public/images/user-profile.jpg"
+                  src="/images/user-profile.jpg"
                   className="card-img-top img-fluid rounded-circle"
                   alt="User Profile"
                 />
